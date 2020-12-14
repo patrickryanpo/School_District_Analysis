@@ -16,12 +16,17 @@ The data sets used in this analysis are:
 Presented below are the key insights that will aid Maria in understanding the school district landscape. The summary presented will have two types of data: initial data and adjusted data (after removing 9th grade grades from Thomas High School).
 
 ### How is the district summary affected?
-Initial Findings:
+__Initial Findings:__
+![Initial District Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/district_summary_df_initial.png)
 
-Adjusted Findings:
-
+__Adjusted Findings:__
+![Adjusted District Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/district_summary_df_adjusted.png)
 
 ### How is the school summary affeced?
+__Initial Findings:__
+![Initial School Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_school_summary_df_initial.png)
+__Adjusted Findings:__
+![Adjusted School Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_school_summary_df_adjusted.png)
 
 ### How does replacing the ninth graders' math and reasing scores affect Thomas High School's performance relative to the other shcools?
 
