@@ -80,10 +80,10 @@ The adjusted school size data relected a 6% increase in the % passing reading fo
 **- Scores by school type**
 
 __Initial Scores by Type:__
-![Initial Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_initial.png)
+![Initial Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_df_initial.png)
 
 __Adjusted Scores by Type:__
-![Adjusted Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_df_adjusted.png)
+![Adjusted Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_adjusted.png)
 
 Charter schools reflected an increase in the % passing in reading as compared to the previous finding. 
 
