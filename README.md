@@ -36,13 +36,47 @@ When it comes to the school summary, we can see that the average scores for both
 
 ![Top Schools](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/top_schools.head_adjusted.png)
 
-As evidenced by the dataframe of the top 5 schools presented above, it is conclusive that replacing the ninth graders' math and reading scores have allowed Thomas High School to be a part of the top 5 performing schools in the district. 
+As evidenced by the dataframe of the top 5 schools presented above, it is conclusive that replacing the ninth graders' math and reading scores had little to no impact when it comes to the performance standing of Thomas High School. They have maintained their place as the second best performing school in the district, despite the elimination of 9th grader scores. 
 
 ### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
+
+__Initial Math Scores:__
+![Initial Math Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_math_scores_initial.png)
+
+__Adjusted Math Scores:__
+![Adjusted Math Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_math_scores_adjusted.png)
+
+__Initial Reading Scores:__
+![Initial Reading Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_reading_scores_initial.png)
+
+__Adjusted Reading Scores:__
+![Adjusted Reading Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_reading_scores_adjusted.png)
+
 - Scores by school spending
+
+__Initial School Spending:__
+![Initial School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_sf_initial.png)
+
+
+__Adjusted School Spending:__
+![Adjusted School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_df_adjusted.png)
+
 - Scores by school size
+
+__Initial School Size Data:__
+![Initial School Size](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/size_summary_df_initial.png)
+
+__Adjusted School Size Data:__
+![Adjusted School Size](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/size_summary_df_adjusted.png)
+
 - Scores by school type
+
+__Initial Scores by Type:__
+![Initial Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_initial.png)
+
+__Adjusted Scores by Type:__
+![Adjusted Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_df_adjusted.png)
 
 ## Summary 
