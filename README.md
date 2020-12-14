@@ -30,7 +30,13 @@ __Initial Findings:__
 __Adjusted Findings:__
 ![Adjusted School Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_school_summary_df_adjusted.png)
 
+When it comes to the school summary, we can see that the average scores for both math and reading were significantly impacted registering an average math score of 83.35 and an average reading score of 83.89 for Thomas High School. In line with this, the passing percentages also experienced a significant uptick for math, reading, and overall, at 93%, 97%, and 90%, respectively. 
+
 ### How does replacing the ninth graders' math and reasing scores affect Thomas High School's performance relative to the other shcools?
+
+![Top Schools](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/top_schools.head_adjusted.png)
+
+As evidenced by the dataframe of the top 5 schools presented above, it is conclusive that replacing the ninth graders' math and reading scores have allowed Thomas High School to be a part of the top 5 performing schools in the district. 
 
 ### How does replacing the ninth-grade scores affect the following:
 
