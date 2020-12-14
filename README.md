@@ -65,7 +65,7 @@ __Initial School Spending:__
 __Adjusted School Spending:__
 ![Adjusted School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_sf_adjusted.png)
 
-The replacement of 9th grader scores had no impact on the average scores by school spending. The main item to look at here is that Thomas High School remained in the same category, which remained unchanged. 
+The replacement of 9th grader scores had only significant impact on the % passing reading, which increased 
 
 **- Scores by school size**
 
@@ -75,8 +75,9 @@ __Initial School Size Data:__
 __Adjusted School Size Data:__
 ![Adjusted School Size](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/size_summary_df_adjusted.png)
 
-The adjusted school size data relected a 6% increase in the % passing reading for 
-- Scores by school type
+The adjusted school size data relected a 6% increase in the % passing reading for medium sized schools. 
+
+**- Scores by school type**
 
 __Initial Scores by Type:__
 ![Initial Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_initial.png)
@@ -84,4 +85,7 @@ __Initial Scores by Type:__
 __Adjusted Scores by Type:__
 ![Adjusted Type](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/type_summary_df_adjusted.png)
 
+Charter schools reflected an increase in the % passing in reading as compared to the previous finding. 
+
 ## Summary 
+
