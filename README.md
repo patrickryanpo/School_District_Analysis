@@ -22,6 +22,8 @@ __Initial Findings:__
 __Adjusted Findings:__
 ![Adjusted District Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/district_summary_df_adjusted.png)
 
+Looking at the data frame's presented, it can be concluded that the adjustment of Thomas High School 9th grades had little impact on the district summary. The average math score dropped by 0.1 points and the average reading score stayed the same. When it comes to the % passing columns, the percentage for math dropped by 0.2%, the percentage for reading dropped by 0.1%, and the overall passing experienced the highest drop of 0.3%. 
+
 ### How is the school summary affeced?
 __Initial Findings:__
 ![Initial School Summary](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_school_summary_df_initial.png)
