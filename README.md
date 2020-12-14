@@ -40,7 +40,7 @@ As evidenced by the dataframe of the top 5 schools presented above, it is conclu
 
 ### How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade
+**- Math and reading scores by grade**
 
 __Initial Math Scores:__
 ![Initial Math Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_math_scores_initial.png)
@@ -54,16 +54,20 @@ __Initial Reading Scores:__
 __Adjusted Reading Scores:__
 ![Adjusted Reading Scores](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/per_grade_reading_scores_adjusted.png)
 
-- Scores by school spending
+The replacement of the 9th grader scores only impacte the math and reading scores of 9th graders at Thomas High School. All other scores across the data frame remained the same as previous analysis. 
+
+**- Scores by school spending**
 
 __Initial School Spending:__
-![Initial School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_sf_initial.png)
+![Initial School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_df_initial.png)
 
 
 __Adjusted School Spending:__
-![Adjusted School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_df_adjusted.png)
+![Adjusted School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_sf_adjusted.png)
 
-- Scores by school size
+The replacement of 9th grader scores had no impact on the average scores by school spending. The main item to look at here is that Thomas High School remained in the same category, which remained unchanged. 
+
+**- Scores by school size**
 
 __Initial School Size Data:__
 ![Initial School Size](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/size_summary_df_initial.png)
@@ -71,6 +75,7 @@ __Initial School Size Data:__
 __Adjusted School Size Data:__
 ![Adjusted School Size](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/size_summary_df_adjusted.png)
 
+The adjusted school size data relected a 6% increase in the % passing reading for 
 - Scores by school type
 
 __Initial Scores by Type:__
