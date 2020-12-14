@@ -65,7 +65,7 @@ __Initial School Spending:__
 __Adjusted School Spending:__
 ![Adjusted School Spending](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/spending_summary_sf_adjusted.png)
 
-The replacement of 9th grader scores had only significant impact on the % passing reading, which increased 
+The replacement of 9th grader scores had only significant impact on the % passing reading, which increased.
 
 **- Scores by school size**
 
