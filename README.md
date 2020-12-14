@@ -88,4 +88,4 @@ __Adjusted Scores by Type:__
 Charter schools reflected an increase in the % passing in reading as compared to the previous finding. 
 
 ## Summary 
-
+There was a significant increase in passing percentage when removing the 9th grader scores especially to the reflection of the performance of Thomas High School. Reading percentages of categories where Thomas High School is in categorically experienced an uptick as well. 
