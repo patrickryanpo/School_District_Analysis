@@ -36,7 +36,7 @@ When it comes to the school summary, we can see that the average scores for both
 
 ![Top Schools](https://github.com/patrickryanpo/School_District_Analysis/blob/main/Resources/screenshots/top_schools.head_adjusted.png)
 
-As evidenced by the dataframe of the top 5 schools presented above, it is conclusive that replacing the ninth graders' math and reading scores had little to no impact when it comes to the performance standing of Thomas High School. They have maintained their place as the second best performing school in the district, despite the elimination of 9th grader scores. 
+As evidenced by the dataframe of the top 5 schools presented above, it is conclusive that replacing the ninth graders' math and reading scores had significant impact to the ranking of Thomas High School. Previously, Thomas High School was not a part of the top 5 schools in the district, however, after replacing the 9th grader's scores, they are ranked as the second best performing high school. 
 
 ### How does replacing the ninth-grade scores affect the following:
 
